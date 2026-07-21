@@ -1,5 +1,5 @@
 $e::
   SendInput, {e down}
-  Sleep, 315
+  Sleep, 330
   SendInput, {e up}
 Return
